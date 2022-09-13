@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.each-repo {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f8ff;
+  justify-content: center;
+  border-radius: 10px;
+  width: 25%;
+  height: 400px;
+}
+
+.repo-image {
+  width: 30%;
+}
+
+.name-heading {
+  color: red;
+}
+
+.start-image {
+  height: 20px;
+  margin: 5px;
+}
+
+.stars-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+p {
+  margin: 2px;
+}
